@@ -17,5 +17,5 @@ app.use(apiRoutes);
 const htmlRoutes = require("./routes/html-routes/htmlRoutes")
 app.use(htmlRoutes);
 
-// Server listener
+// Server listener method
 app.listen(PORT, () => console.log(`Listening on PORT: ${PORT}`));
