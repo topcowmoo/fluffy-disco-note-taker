@@ -1,7 +1,9 @@
 // Import dependancies
 const express = require('express');
+const apiRoutes = require("./routes/api-routes/apiRoutes");
+const htmlRoutes = require("./routes/html-routes/htmlRoutes");
 
-// Function to initialize express
+// function to initialize express
 const app = express();
 
 // PORT variable to determine which port express will listen on
@@ -12,10 +14,9 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));
 
-const apiRoutes = require("./routes/api-routes/apiRoutes");
+// Routes
 app.use(apiRoutes);
-const htmlRoutes = require("./routes/html-routes/htmlRoutes")
 app.use(htmlRoutes);
 
 // Server listener method
-app.listen(PORT, () => console.log(`Listening on PORT: ${PORT}`));
+app.listen(PORT, () => console.log(`Server is listening on PORT: ${PORT}`));
