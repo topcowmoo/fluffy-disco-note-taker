@@ -27,7 +27,7 @@ function writeDatabase(data) {
 }
 
 // GET endpoint to retrieve all notes from the database
-router.get("/api/notes", (req, res) => {
+router.get("/notes", (req, res) => {
   try {
     const database = readDatabase();
     res.json(database);
@@ -38,7 +38,7 @@ router.get("/api/notes", (req, res) => {
 });
 
 // POST endpoint to create a new note
-router.post("/api/notes", (req, res) => {
+router.post("notes", (req, res) => {
   try {
     const newNote = req.body;
     newNote.id = uuid.v4();
@@ -53,7 +53,7 @@ router.post("/api/notes", (req, res) => {
 });
 
 // DELETE endpoint to delete a note by ID
-router.delete("/api/notes/:id", (req, res) => {
+router.delete("/notes/:id", (req, res) => {
   try {
     const noteId = req.params.id;
     let database = readDatabase();
