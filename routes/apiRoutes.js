@@ -5,7 +5,6 @@ const fs = require("fs");
 const path = require("path");
 
 const dbPath = path.resolve(__dirname, "../db/db.json");
-
 function readDatabase() {
   const data = fs.readFileSync(dbPath, "utf8");
   return JSON.parse(data);
