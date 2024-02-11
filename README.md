@@ -12,7 +12,7 @@
     <a href="https://github.com/topcowmoo/fluffy-disco-note-taker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/topcowmoo/fluffy-disco-note-taker">View Demo</a>
+    <a href="https://pacific-basin-11264-4d339f96ea1b.herokuapp.com/">View Demo at via Heroku</a>
     ·
     <a href="https://github.com/topcowmoo/fluffy-disco-note-taker/issues">Report Bug</a>
     ·
