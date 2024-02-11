@@ -94,6 +94,10 @@ Jest test results:
 - CSS
   ![CSS](https://img.shields.io/badge/Language-CSS-blue)
 
+![Languages](https://img.shields.io/github/languages/count/topcowmoo/fluffy-disco-note-taker)
+
+
+
 
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
