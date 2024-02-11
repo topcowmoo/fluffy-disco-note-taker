@@ -96,6 +96,12 @@ Jest test results:
 
 ![Languages](https://img.shields.io/github/languages/count/topcowmoo/fluffy-disco-note-taker)
 
+LANGUAGE_STATS_START
+
+LANGUAGE_STATS_END
+
+
+
 
 
 
