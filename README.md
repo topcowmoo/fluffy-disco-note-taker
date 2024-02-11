@@ -155,9 +155,12 @@ https://img.shields.io/badge/language-javascript%2055.5%25-blue.svg
 
 
 
-
-
-[![Alt text1](./public/assets/images/heroku-original-wordmark.png =30x30)](HTML-url)
-[![Alt text2](/image2.png =100x100)](HTML-url)
-[![Alt text3](/image3.png =100x100)](HTML-url)
-[![Alt text4](/image4.png =100x100)](HTML-url)
+<a href="HTML-url">
+  <img src="./public/assets/images/html-5.png" alt="Alt text" width="45" height="45">
+  <img src="./public/assets/images/css-3.png" alt="Alt text" width="45" height="45">
+  <img src="./public/assets/images/bootstrap-plain-wordmark.png" alt="Alt text" width="45" height="45">
+  <img src="./public alt="Alt text" width="70" height="65">
+  <img src="/./public/assets/images/nodejs.png" alt="Alt text" width="45" height="45">
+  <img src="./public/assets/images/apps-insomnia.png" alt="Alt text" width="45" height="45">
+  <img src="./public/assets/images/heroku-original-wordmark.png" alt="Alt text" width="45" height="45">
+</a>
