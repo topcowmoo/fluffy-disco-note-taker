@@ -38,7 +38,7 @@ router.get("/notes", (req, res) => {
 });
 
 // POST endpoint to create a new note
-router.post("notes", (req, res) => {
+router.post("/notes", (req, res) => {
   try {
     const newNote = req.body;
     newNote.id = uuid.v4();
