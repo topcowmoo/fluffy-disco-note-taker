@@ -96,9 +96,22 @@ Jest test results:
 
 ![Languages](https://img.shields.io/github/languages/count/topcowmoo/fluffy-disco-note-taker)
 
-LANGUAGE_STATS_START
+Insert the following line where you want the language stats badge to appear in your README.md:
 
-LANGUAGE_STATS_END
+  ```markdown
+  ![GitHub language count](https://img.shields.io/github/languages/count/topcowmoo/fluffy-disco-note-taker?style=flat-square)
+  ```
+
+  And for top languages by code size:
+
+  ```markdown
+  ![GitHub top language](https://img.shields.io/github/languages/top/topcowmoo/fluffy-disco-note-taker?style=flat-square)
+  ```
+
+  Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` with your GitHub username and repository name, respectively.
+
+2. **No Need for GitHub Action Workflow for Badge Updates**
+
 
 
 
