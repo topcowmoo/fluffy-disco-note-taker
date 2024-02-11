@@ -1,16 +1,9 @@
 # fluffy-disco-note-taker
-A fluffy Express.js note taker application that saves and retrieves note data from a JSON.file 
-
-![GitHub language stats](https://img.shields.io/github/languages/top/topcowmoo/fluffy-disco-note-taker)
+A fluffy Express.js note taker application that saves and retrieves note data from a JSON.file.
 
 
 
 
-
-![GitHub top language](https://img.shields.io/github/languages/top/topcowmoo/fluffy-disco-note-taker?style=flat-square)
-
-
-![GitHub language count](https://img.shields.io/github/languages/count/topcowmoo/fluffy-disco-note-taker?style=flat-square)
 
 
 # Fluffy Disco Note Taker
@@ -25,6 +18,7 @@ https://drive.google.com/file/d/1pQrjDiopvKF9VMTAedhObb9kTmgYmlLF/view
 
 ## Table of Contents
 
+  [Fluffy Disco Note Taker](#fluffy-disco-note-taker-1)
 - [fluffy-disco-note-taker](#fluffy-disco-note-taker)
 - [Fluffy Disco Note Taker](#fluffy-disco-note-taker-1)
   - [Description](#description)
@@ -71,9 +65,6 @@ Logo generated:
 
 ![image](https://github.com/topcowmoo/curly-svg-logo-maker/assets/149528212/5525839f-d23e-43b2-8003-09a1ed4b575c)
 
-Jest test results:
-
-![image](https://github.com/topcowmoo/curly-svg-logo-maker/assets/149528212/e67a7eb5-9bb6-48e3-858a-4f2173e08761)
 
 ## Credits
 
@@ -84,19 +75,35 @@ Jest test results:
 5. Insomnia
 
 
-<img src="https://img.shields.io/badge/-Heroku-ffca7a" />
-<img src="https://img.shields.io/badge/-JSON-514b4b" />
-<img src="https://img.shields.io/badge/-Express-0081ff" />
-<img src="https://img.shields.io/badge/-Insomnia-ffca7a" />
-<img src="https://img.shields.io/badge/UUID-514b4b"  />
-<img src="https://img.shields.io/badge/-JavaScript-0081ff" />
-<img src="https://img.shields.io/badge/-Node.js-ffca7a" />
-
-
 ## Built With
 
 
 ## Built With
+
+
+
+## How to Contribute
+
+Please have a look at the [Contributor Covenant](https://www.contributor-covenant.org/) which is an industry standard.
+
+## How To Report Issues
+
+If you want to report a bug or issue please visit the following link from GitHub:
+
+https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository
+
+
+---
+
+
+
+
+
+![GitHub language stats](https://img.shields.io/github/languages/top/topcowmoo/fluffy-disco-note-taker)
+
+
+![GitHub language count](https://img.shields.io/github/languages/count/topcowmoo/fluffy-disco-note-taker?style=flat-square)
+
 
 - JavaScript
   ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
@@ -132,14 +139,25 @@ Insert the following line where you want the language stats badge to appear in y
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 
-## How to Contribute
 
-Please have a look at the [Contributor Covenant](https://www.contributor-covenant.org/) which is an industry standard.
 
-## How To Report Issues
+<img src="https://img.shields.io/badge/-Heroku-ffca7a" />
+<img src="https://img.shields.io/badge/-JSON-514b4b" />
+<img src="https://img.shields.io/badge/-Express-0081ff" />
+<img src="https://img.shields.io/badge/-Insomnia-ffca7a" />
+<img src="https://img.shields.io/badge/UUID-514b4b"  />
+<img src="https://img.shields.io/badge/-JavaScript-0081ff" />
+<img src="https://img.shields.io/badge/-Node.js-ffca7a" />
 
-If you want to report a bug or issue please visit the following link from GitHub:
+https://img.shields.io/badge/language-javascript%2055.5%25-blue.svg
 
-https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository
 
----
+
+
+
+
+
+[![Alt text1](./public/assets/images/heroku-original-wordmark.png =30x30)](HTML-url)
+[![Alt text2](/image2.png =100x100)](HTML-url)
+[![Alt text3](/image3.png =100x100)](HTML-url)
+[![Alt text4](/image4.png =100x100)](HTML-url)
