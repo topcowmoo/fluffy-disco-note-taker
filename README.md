@@ -27,7 +27,6 @@ https://drive.google.com/file/d/1pQrjDiopvKF9VMTAedhObb9kTmgYmlLF/view
   - [Usage](#usage)
   - [Credits](#credits)
   - [Built With](#built-with)
-  - [Built With](#built-with-1)
   - [How to Contribute](#how-to-contribute)
   - [How To Report Issues](#how-to-report-issues)
 
@@ -77,10 +76,15 @@ Logo generated:
 
 ## Built With
 
-
-## Built With
-
-
+<a href="HTML-url">
+  <img src="./public/assets/images/html-5.png" alt="Alt text" width="45" height="45">
+  <img src="./public/assets/images/css-3.png" alt="Alt text" width="45" height="45">
+  <img src="./public/assets/images/bootstrap-plain-wordmark.png" alt="Alt text" width="45" height="45">
+  <img src="./public/assets/images/javascript.png" alt="Alt text" width="45" height="45">
+  <img src="/./public/assets/images/nodejs.png" alt="Alt text" width="45" height="45">
+  <img src="./public/assets/images/apps-insomnia.png" alt="Alt text" width="45" height="45">
+  <img src="./public/assets/images/heroku-original-wordmark.png" alt="Alt text" width="45" height="45">
+</a>
 
 ## How to Contribute
 
@@ -99,68 +103,11 @@ https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-iss
 
 
 
+
+---
 ![GitHub language stats](https://img.shields.io/github/languages/top/topcowmoo/fluffy-disco-note-taker)
-
-
-![GitHub language count](https://img.shields.io/github/languages/count/topcowmoo/fluffy-disco-note-taker?style=flat-square)
-
-
-- JavaScript
-  ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-- HTML
-  ![HTML](https://img.shields.io/badge/Language-HTML-orange)
-- CSS
-  ![CSS](https://img.shields.io/badge/Language-CSS-blue)
 
 ![Languages](https://img.shields.io/github/languages/count/topcowmoo/fluffy-disco-note-taker)
 
-Insert the following line where you want the language stats badge to appear in your README.md:
-
-  ```markdown
-  ![GitHub language count](https://img.shields.io/github/languages/count/topcowmoo/fluffy-disco-note-taker?style=flat-square)
-  ```
-
-  And for top languages by code size:
-
-  ```markdown
-  ![GitHub top language](https://img.shields.io/github/languages/top/topcowmoo/fluffy-disco-note-taker?style=flat-square)
-  ```
-
-  Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` with your GitHub username and repository name, respectively.
-
-2. **No Need for GitHub Action Workflow for Badge Updates**
 
 
-
-
-
-
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-
-
-<img src="https://img.shields.io/badge/-Heroku-ffca7a" />
-<img src="https://img.shields.io/badge/-JSON-514b4b" />
-<img src="https://img.shields.io/badge/-Express-0081ff" />
-<img src="https://img.shields.io/badge/-Insomnia-ffca7a" />
-<img src="https://img.shields.io/badge/UUID-514b4b"  />
-<img src="https://img.shields.io/badge/-JavaScript-0081ff" />
-<img src="https://img.shields.io/badge/-Node.js-ffca7a" />
-
-https://img.shields.io/badge/language-javascript%2055.5%25-blue.svg
-
-
-
-
-
-<a href="HTML-url">
-  <img src="./public/assets/images/html-5.png" alt="Alt text" width="45" height="45">
-  <img src="./public/assets/images/css-3.png" alt="Alt text" width="45" height="45">
-  <img src="./public/assets/images/bootstrap-plain-wordmark.png" alt="Alt text" width="45" height="45">
-  <img src="./public alt="Alt text" width="70" height="65">
-  <img src="/./public/assets/images/nodejs.png" alt="Alt text" width="45" height="45">
-  <img src="./public/assets/images/apps-insomnia.png" alt="Alt text" width="45" height="45">
-  <img src="./public/assets/images/heroku-original-wordmark.png" alt="Alt text" width="45" height="45">
-</a>
