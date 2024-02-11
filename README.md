@@ -1,78 +1,66 @@
-# fluffy-disco-note-taker
+<br />
+<div align="center">
+  <a href="https://github.com/topcowmoo/fluffy-disco-note-taker">
+    <img src="./public/assets/images/favicon-32x32.png" alt="Logo" width="70" height="70">
+  </a>
+
+<h3 align="center">Fluffy Disco Note Taker</h3>
+
+  <p align="center">
+    Welcome to my note taker app. This app is great for organzing your thoughts and keeping track of tasks that you need to complete. It is a simple app but very useful app for any developer or business owner to use and stay organized. It uses Express.js to save, retrieve and delete notes you've created.
+    <br />
+    <a href="https://github.com/topcowmoo/fluffy-disco-note-taker"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/topcowmoo/fluffy-disco-note-taker">View Demo</a>
+    ·
+    <a href="https://github.com/topcowmoo/fluffy-disco-note-taker/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/topcowmoo/fluffy-disco-note-taker/issues">Request Feature</a>
+  </p>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
 A fluffy Express.js note taker application that saves and retrieves note data from a JSON.file.
 
+Landing page:
 
+![image](https://github.com/topcowmoo/fluffy-disco-note-taker/assets/149528212/710c02b8-5ca9-414b-be6c-df19fb7b6118)
 
+Retrieve saved notes:
 
+![image](https://github.com/topcowmoo/fluffy-disco-note-taker/assets/149528212/08364672-5017-4f93-bcab-81572fa2fc77)
 
+Add a new note with Save and Clear Buttons present:
 
-# Fluffy Disco Note Taker
+![image](https://github.com/topcowmoo/fluffy-disco-note-taker/assets/149528212/fd3ba555-1aeb-4db3-961b-93d9649a6dfa)
 
-## Description
+db.json file showing saved notes each with unique ID's:
 
-Welcome to my SVG logo generator application. This is a simple tool to make logos for any any project. No need to pay for a graphic designer anymore thanks to this generator.
-
-Please have a look at my walkthrough video:
-
-https://drive.google.com/file/d/1pQrjDiopvKF9VMTAedhObb9kTmgYmlLF/view
-
-## Table of Contents
-
-  [Fluffy Disco Note Taker](#fluffy-disco-note-taker-1)
-- [fluffy-disco-note-taker](#fluffy-disco-note-taker)
-- [Fluffy Disco Note Taker](#fluffy-disco-note-taker-1)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [Built With](#built-with)
-  - [How to Contribute](#how-to-contribute)
-  - [How To Report Issues](#how-to-report-issues)
-
-## Installation
-
-1. Head over to my repo at GitHub:
-   https://github.com/topcowmoo/fluffy-disco-note-taker
-
-2. Clone the repo to your local machine.
-
-3. Install Node.js if you do not have it on your local machine.
-
-4. Using your terminal run the command npm init -y to initialize and create a package.json.
-
-5. In the terminal run npm i inquirer@8.2.4 and npm i jest.
-
-6. Open the repo in VS Code and right-click on the index.js file. Choose Open in Integrated Terminal.
-
-7. Type the following command in the terminal:
-   node index.js
-
-8. That will start the generator for you.
-
-## Usage
-
-Clone to local:
-
-![image](https://github.com/topcowmoo/curly-svg-logo-maker/assets/149528212/d4177495-1749-4dff-a8e0-2b25901abdaf)
-
-CD to local folder and type code .:
-
-![image](https://github.com/topcowmoo/curly-svg-logo-maker/assets/149528212/9ec4b6cf-2e2f-47ac-a0b6-e417b1af2a7a)
-
-Logo generated:
-
-![image](https://github.com/topcowmoo/curly-svg-logo-maker/assets/149528212/5525839f-d23e-43b2-8003-09a1ed4b575c)
-
-
-## Credits
-
-1. ChatGPT
-2. Xpert Assistant
-3. Make a README
-4. Color Hex Color Codes
-5. Insomnia
-
+![image](https://github.com/topcowmoo/fluffy-disco-note-taker/assets/149528212/719a7feb-9c5d-469e-ab02-8ad5a3542018)
 
 ## Built With
 
@@ -86,28 +74,59 @@ Logo generated:
   <img src="./public/assets/images/heroku-original-wordmark.png" alt="Alt text" width="45" height="45">
 </a>
 
-## How to Contribute
+### Installation
 
-Please have a look at the [Contributor Covenant](https://www.contributor-covenant.org/) which is an industry standard.
+1. Clone the repo
+   ```sh
+   git clone https://github.com/topcowmoo/fluffy-disco-note-taker
+   ```
+2. Install NPM packages
+   ````sh
+   npm install   ```
+   ````
 
-## How To Report Issues
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-If you want to report a bug or issue please visit the following link from GitHub:
+<!-- CONTRIBUTING -->
 
-https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository
+## Contributing
 
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+
+## Contact
+
+Your Name - [@github_username](https://github.com/topcowmoo) - mammoliti.sam@gmail.com
+
+Project Link: [https://github.com/topcowmoo/fluffy-disco-note-taker](https://github.com/topcowmoo/fluffy-disco-note-taker)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+
+## Acknowledgments
+
+- [ChatGPT](https://chat.openai.com/)
+- [Best README Template](https://github.com/othneildrew/Best-README-Template)
+- [Iconduck](https://iconduck.com/)
+- [Shields.io](https://shields.io/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
-
-
-
-
-
----
 ![GitHub language stats](https://img.shields.io/github/languages/top/topcowmoo/fluffy-disco-note-taker)
 
 ![Languages](https://img.shields.io/github/languages/count/topcowmoo/fluffy-disco-note-taker)
-
-
-
